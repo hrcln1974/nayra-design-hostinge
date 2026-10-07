@@ -1,0 +1,16 @@
+{
+  "name": "Salão Nayra Design",
+  "short_name": "Nayra Design",
+  "start_url": "./",
+  "display": "standalone",
+  "lang": "pt-BR",
+  "theme_color": "#8b5e68",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/logo-salao.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

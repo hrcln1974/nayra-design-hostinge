@@ -1,0 +1,12 @@
+# Salão Nayra Design
+
+Site institucional e de agendamento do Salão Nayra Design.
+
+## Conteúdo
+- Serviços de beleza
+- Agendamento online
+- Atendimento via WhatsApp
+- Informações de contato e localização
+
+## Contato
+WhatsApp: (81) 98370-4290
